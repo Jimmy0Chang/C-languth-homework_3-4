@@ -1,0 +1,7 @@
+﻿  main.c
+c:\c_hw\109360237\4.28\source\main.c(6): warning C4101: 'e': 未參考的區域變數
+c:\c_hw\109360237\4.28\source\main.c(6): warning C4101: 'f': 未參考的區域變數
+c:\c_hw\109360237\4.28\source\main.c(7): warning C4101: 'j': 未參考的區域變數
+c:\c_hw\109360237\4.28\source\main.c(6): warning C4101: 'g': 未參考的區域變數
+c:\c_hw\109360237\4.28\source\main.c(6): warning C4101: 'd': 未參考的區域變數
+  4.28.vcxproj -> C:\c_hw\109360237\4.28\4.28\Debug\4.28.exe
